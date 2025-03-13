@@ -1,0 +1,129 @@
+{
+  "originUrl": "https://www.bankofamerica.com",
+  "urls": [
+    {
+      "url": "https://www.bankofamerica.com/accessible-banking/spa-assets/sitemap.xml",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.bankofamerica.com/auto-loans/spa-assets/sitemap.xml",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.bankofamerica.com/company/spa-assets/sitemap.xml",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.bankofamerica.com/content/sitemap_desktop_www.xml",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.bankofamerica.com/content/sitemap_video_www.xml",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.bankofamerica.com/credit-cards/spa-assets/sitemap.xml",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.bankofamerica.com/customer-service/contact-us/spa-assets/sitemap.xml",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.bankofamerica.com/deposits/spa-assets/sitemap.xml",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.bankofamerica.com/foreign-exchange/spa-assets/sitemap.xml",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.bankofamerica.com/help/spa-assets/sitemap.xml",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.bankofamerica.com/home-equity/spa-assets/sitemap.xml",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.bankofamerica.com/homepage/spa-assets/sitemap.xml",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.bankofamerica.com/info-auto-loans/spa-assets/sitemap.xml",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.bankofamerica.com/information/spa-assets/sitemap.xml",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.bankofamerica.com/military-banking/spa-assets/sitemap.xml",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.bankofamerica.com/mortgage/spa-assets/sitemap.xml",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.bankofamerica.com/online-banking/spa-assets/sitemap.xml",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.bankofamerica.com/preferred-rewards/spa-assets/sitemap.xml",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.bankofamerica.com/security-center/spa-assets/sitemap.xml",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.bankofamerica.com/signature-services/spa-assets/sitemap.xml",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.bankofamerica.com/smallbusiness/business-financing/spa-assets/sitemap.xml",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.bankofamerica.com/smallbusiness/credit-cards/spa-assets/sitemap.xml",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.bankofamerica.com/smallbusiness/deposits/spa-assets/sitemap.xml",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.bankofamerica.com/smallbusiness/merchant-services/spa-assets/sitemap.xml",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.bankofamerica.com/smallbusiness/online-banking/spa-assets/sitemap.xml%C2%A0",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.bankofamerica.com/smallbusiness/resources/spa-assets/sitemap.xml%C2%A0",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.bankofamerica.com/student-banking/spa-assets/sitemap.xml",
+      "source": "CRAWL"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": -1,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "SITEMAPS",
+    "logger": {}
+  },
+  "extractionErrors": [
+    {
+      "url": "https://www.bankofamerica.com/sitemap.xml",
+      "status": "parseSitemapFromUrl (https://www.bankofamerica.com/sitemap.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Status: 404"
+    }
+  ]
+}
